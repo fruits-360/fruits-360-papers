@@ -1,5 +1,11 @@
 # Papers using Fruits-360 dataset
 
+## About Fruits-360 dataset
+
+[https://github.com/fruits-360](https://github.com/fruits-360)
+
+## How to add papers
+
 If your paper is not here, please add it by:
 
 - updating this repository or,
