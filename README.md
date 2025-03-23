@@ -37,6 +37,10 @@ Jump to year:
 
 ## 2019
 
+1. Dang Thi Phuong Chung, Dinh Van Tai, [A fruits recognition system based on a modern deep learning technique](https://iopscience.iop.org/article/10.1088/1742-6596/1327/1/012050/meta), Journal of Physics: Conference Series, Volume 1327, V International Conference on Innovations in Non-Destructive Testing SibTest, 2019. DOI: 10.1088/1742-6596/1327/1/012050
+
+2. Shadman Sakib, Zahidun Ashrafi, Md. Abu Bakr Siddique, [Implementation of Fruits Recognition Classifier using Convolutional Neural Network Algorithm for Observation of Accuracies for Various Hidden Layers](https://arxiv.org/abs/1904.00783), 2019. DOI:  10.48550/arXiv.1904.00783
+
 ## 2020
 
 ## 2021
@@ -45,9 +49,22 @@ Jump to year:
 
 ## 2022
 
+1. Horea Mureşan, [An Automated Algorithm for Fruit Image Dataset Building](), 17th Conference on Computer Science and Intelligence Systems (FedCSIS), Sofia, Bulgaria, pp. 103-107, 2022. DOI: 10.15439/2022F58
+
 ## 2023
 
 ## 2024
 
+1. Ciapas B., Treigys P., [Centre-loss—A preferred class verification approach over sample-to-sample in self-checkout products datasets](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cvi2.12302), IET Computer Vision, Vol. 18, Issue 7, pp. 1004–1016, 2024. DOI: https://doi.org/10.1049/cvi2.12302
+
 ## 2025
 
+1. Sathyadhas G.N., Gladston A., Nehemiah K.H., [LwSANet: Light weight Self-Attention Network model to recognize fruits from images](https://www.iieta.org/journals/ts/paper/10.18280/ts.420117), Traitement du Signal, Vol. 42, No. 1, pp. 183-200, 2025.
+
+2. Panhwar Ali Orangzeb, Anwar Ali Sathio, Nadim Manzoor Shah, Sumaira Memon, [A Scheme Based on Deep Learning for Fruit Classification](https://search.informit.org/doi/abs/10.3316/informit.T2025031600003091229425520), Mehran University Research Journal Of Engineering & Technology, vol. 44, no. 1, Mehran University of Engineering & Technology, 2025, pp. 8–19, 2025.
+
+3. Mansouri Merieme, Chaouni Samia Benabdellah, Andaloussi Said Jai, Ouchetto Ouail, Azbeg Kebira, [Estimating glycemic index in a specific dataset: The case of Moroccan cuisine](https://www.degruyter.com/document/doi/10.1515/jisys-2024-0122/html), Journal of Intelligent Systems, Vol. 34, No. 1, pp. 20240122, 2025. DOI: https://doi.org/10.1515/jisys-2024-0122
+
+4. Sadique P.M.A., Aswiga R.V., [Automatic summarization of cooking videos using transfer learning and transformer-based models](https://link.springer.com/article/10.1007/s44163-025-00230-y), Discov Artif Intell Vol. 5, Issue 7, 2025. https://doi.org/10.1007/s44163-025-00230-y
+
+5. Robi Wariyanto Abdullah, Rajnaparamitha Kusumastuti ,Handoko, [IMAGE FEATURE EXTRACTION PROCESSING ANALYSIS FOR APPLE TYPE CLASSIFICATION USING SCIKIT-LEARN WITH THE K-NEAREST NEIGHBOR ALGORITHM](https://jtiik.ub.ac.id/index.php/jtiik/article/view/9149), Jurnal Teknologi Informasi Dan Ilmu Komputer, Vol. 12, Issue 1, pp. 165-174, 2025.
