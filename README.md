@@ -10,12 +10,18 @@ If your paper is not here, please add it by:
 
 Only papers using __Fruits-360 dataset__ in the numerical experiments are accepted.
 
-_Last update: 2025.03.23.1_
+_Last update: 2025.03.23.2_
 
 Jump to year:
 
 [2018](#y2018)
+[2019](#y2019)
+[2020](#y2020)
 [2021](#y2021)
+[2022](#y2022)
+[2023](#y2023)
+[2024](#y2024)
+[2025](#y2025)
 
 ## 2018
 
@@ -29,6 +35,19 @@ Jump to year:
 
 5. M. Buzzelli, F. Belotti, R. Schettini, [Recognition of Edible Vegetables and Fruits for Smart Home Appliances], IEEE 8th International Conference on Consumer Electronics - Berlin (ICCE-Berlin), Berlin, Germany, pp. 1-4, 2018.
 
+## 2019
+
+## 2020
+
 ## 2021
 
 1. Mihai Oltean, [Fruits-360 dataset: new research directions](https://www.researchgate.net/publication/354535752_Fruits_360_dataset_new_research_directions), Technical report, 2021.
+
+## 2022
+
+## 2023
+
+## 2024
+
+## 2025
+
