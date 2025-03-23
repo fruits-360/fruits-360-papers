@@ -1,8 +1,16 @@
 # Papers using Fruits-360 dataset
 
-If your paper is not here, please add it by filling [Fruits-360 Google Form](https://docs.google.com/forms/d/e/1FAIpQLScp4QFWaRAQ_SFv3bJWsadDjZ3EF7YOBp-D8RQ0pvWYUVl9rw/viewform?usp=sf_link) or send it to us by email. Only papers using __Fruits-360 dataset__ tin the numerical experiments are accepted.
+If your paper is not here, please add it by:
 
-__Last update: 2025.03.23.0__
+- updating this repository or,
+
+- filling [Fruits-360 Google Form](https://docs.google.com/forms/d/e/1FAIpQLScp4QFWaRAQ_SFv3bJWsadDjZ3EF7YOBp-D8RQ0pvWYUVl9rw/viewform?usp=sf_link) or,
+
+- send it to us by email (mihai.oltean@gmail.com).
+
+Only papers using __Fruits-360 dataset__ in the numerical experiments are accepted.
+
+_Last update: 2025.03.23.1_
 
 Jump to year:
 
