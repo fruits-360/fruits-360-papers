@@ -12,7 +12,7 @@ If your paper is not here, please add it by:
 
 - filling [Fruits-360 Google Form](https://docs.google.com/forms/d/e/1FAIpQLScp4QFWaRAQ_SFv3bJWsadDjZ3EF7YOBp-D8RQ0pvWYUVl9rw/viewform?usp=sf_link) or,
 
-- send it to us by email (mihai.oltean@gmail.com).
+- send it to me, by email at _mihai.oltean@gmail.com_.
 
 Only papers using __Fruits-360 dataset__ in the numerical experiments are accepted.
 
