@@ -63,9 +63,13 @@ Jump to year:
 
 1. Mihai Oltean, [Fruits-360 dataset: new research directions](https://www.researchgate.net/publication/354535752_Fruits_360_dataset_new_research_directions), Technical report, 2021.
 
+2. Wang Shijie, Guiling Sun, Bowen Zheng, Yawen Du, [A Crop Image Segmentation and Extraction Algorithm Based on Mask RCNN](https://www.mdpi.com/1099-4300/23/9/1160), Entropy, Vol. 23, No. 9: 1160. 2021. DOI: https://doi.org/10.3390/e23091160
+
 ## 2022
 
 1. Horea Mureşan, [An Automated Algorithm for Fruit Image Dataset Building](https://ieeexplore.ieee.org/document/9909204), 17th Conference on Computer Science and Intelligence Systems (FedCSIS), Sofia, Bulgaria, pp. 103-107, 2022. DOI: 10.15439/2022F58
+
+2. Aherwadi Nagnath, Usha Mittal, Jimmy Singla, N. Z. Jhanjhi, Abdulsalam Yassine, M. Shamim Hossain, [Prediction of Fruit Maturity, Quality, and Its Life Using Deep Learning Algorithms](https://www.mdpi.com/2079-9292/11/24/4100), Electronics, Vol. 11, Issue 24, 4100, 2022. https://doi.org/10.3390/electronics11244100
 
 ## 2023
 
