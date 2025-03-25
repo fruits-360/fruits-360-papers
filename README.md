@@ -49,13 +49,13 @@ Jump to year:
 
 ## 2020
 
-1. S. Ghosh, M. J. Mondal, S. Sen, S. Chatterjee, N. Kar Roy and S. Patnaik, [A novel approach to detect and classify fruits using ShuffleNet V2](), IEEE Applied Signal Processing Conference (ASPCON), Kolkata, India, pp. 163-167, 2020. DOI: 10.1109/ASPCON49795.2020.9276669.
+1. S. Ghosh, M. J. Mondal, S. Sen, S. Chatterjee, N. Kar Roy, S. Patnaik, [A novel approach to detect and classify fruits using ShuffleNet V2](), IEEE Applied Signal Processing Conference (ASPCON), Kolkata, India, pp. 163-167, 2020. DOI: 10.1109/ASPCON49795.2020.9276669.
 
-2. Ghazanfar Latif, Batool Alsalem, Wejdan Mubarky, Nazeeruddin Mohammad, and Jaafar Alghazo, [Automatic Fruits Calories Estimation through Convolutional Neural Networks](https://dl.acm.org/doi/abs/10.1145/3397125.3397154), In Proceedings of the 2020 6th International Conference on Computer and Technology Applications (ICCTA '20). Association for Computing Machinery, New York, NY, USA, pp. 17–21, 2020. DOI: 10.1145/3397125.3397154
+2. Ghazanfar Latif, Batool Alsalem, Wejdan Mubarky, Nazeeruddin Mohammad, Jaafar Alghazo, [Automatic Fruits Calories Estimation through Convolutional Neural Networks](https://dl.acm.org/doi/abs/10.1145/3397125.3397154), In Proceedings of the 2020 6th International Conference on Computer and Technology Applications (ICCTA '20). Association for Computing Machinery, New York, NY, USA, pp. 17–21, 2020. DOI: 10.1145/3397125.3397154
 
-3. Seda Postalcıoğlu , Performance Analysis of Different Optimizers for Deep Learning-Based Image Recognition, International Journal of Pattern Recognition and Artificial Intelligence, Vol. 34, No. 02, 2020. DOI: 10.1142/S0218001420510039
+3. Seda Postalcıoğlu, [Performance Analysis of Different Optimizers for Deep Learning-Based Image Recognition](https://www.worldscientific.com/doi/abs/10.1142/S0218001420510039), International Journal of Pattern Recognition and Artificial Intelligence, Vol. 34, No. 02, 2020. DOI: 10.1142/S0218001420510039
 
-4. S. Yu, K. Wickstrøm, R. Jenssen and J. C. Príncipe, [Understanding Convolutional Neural Networks With Information Theory: An Initial Exploration](https://ieeexplore.ieee.org/abstract/document/8998186), in IEEE Transactions on Neural Networks and Learning Systems, Vol. 32, No. 1, pp. 435-442, Jan. 2021, DOI: 10.1109/TNNLS.2020.2968509.
+4. S. Yu, K. Wickstrøm, R. Jenssen, J. C. Príncipe, [Understanding Convolutional Neural Networks With Information Theory: An Initial Exploration](https://ieeexplore.ieee.org/abstract/document/8998186), in IEEE Transactions on Neural Networks and Learning Systems, Vol. 32, No. 1, pp. 435-442, Jan. 2021, DOI: 10.1109/TNNLS.2020.2968509.
 
 5. Pritom Sarker, Mehenag Khatun, Forhad Ali, Nakib Aman Turzo, Julker Nine, [Fruits Classification using Convolutional Neural Network](https://www.grdjournals.com/article?paper_id=GRDJEV05I080015), Global Research and Development Journal For Engineering, Vol. 58: pp. 1-6, 2020.
 
@@ -65,7 +65,7 @@ Jump to year:
 
 ## 2022
 
-1. Horea Mureşan, [An Automated Algorithm for Fruit Image Dataset Building](), 17th Conference on Computer Science and Intelligence Systems (FedCSIS), Sofia, Bulgaria, pp. 103-107, 2022. DOI: 10.15439/2022F58
+1. Horea Mureşan, [An Automated Algorithm for Fruit Image Dataset Building](https://ieeexplore.ieee.org/document/9909204), 17th Conference on Computer Science and Intelligence Systems (FedCSIS), Sofia, Bulgaria, pp. 103-107, 2022. DOI: 10.15439/2022F58
 
 ## 2023
 
