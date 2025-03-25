@@ -75,15 +75,21 @@ Jump to year:
 
 1. Salim Farsana, Faisal Saeed, Shadi Basurra, Sultan Noman Qasem, Tawfik Al-Hadhrami, [DenseNet-201 and Xception Pre-Trained Deep Learning Models for Fruit Recognition](https://www.mdpi.com/2079-9292/12/14/3132), Electronics, Vol. 12, No. 14: 3132. 2023. DOI: https://doi.org/10.3390/electronics12143132
 
+2. Achanta Jyothi Prakash, P. Prakasam, [An intelligent fruits classification in precision agriculture using bilinear pooling convolutional neural networks](https://link.springer.com/article/10.1007/s00371-022-02443-z), The Visual Computer, Vol. 39, pp. 1765–1781, 2023. DOI: https://doi.org/10.1007/s00371-022-02443-z
+
 ## 2024
 
 1. Ciapas B., Treigys P., [Centre-loss—A preferred class verification approach over sample-to-sample in self-checkout products datasets](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cvi2.12302), IET Computer Vision, Vol. 18, Issue 7, pp. 1004–1016, 2024. DOI: https://doi.org/10.1049/cvi2.12302
+
+2. Yonis  Gulzar, Zeynep  Ünal, Shahnawaz  Ayoub, Faheem  Ahmad Reegu, Alhanouf  Altulihan, [Adaptability of deep learning: datasets and strategies in fruit classification](https://www.bio-conferences.org/articles/bioconf/abs/2024/04/bioconf_i-craft2024_01020/bioconf_i-craft2024_01020.html), BIO Web Conf. 85 01020, 2024. DOI: 10.1051/bioconf/20248501020
+
+3. Chunyang Zhu, Lei Wang, Weihua Zhao, Heng Lian, [Image classification based on tensor network DenseNet model](https://link.springer.com/article/10.1007/s10489-024-05472-4), Appl Intell Vol. 54, pp. 6624–6636, 2024. DOI: https://doi.org/10.1007/s10489-024-05472-4
 
 ## 2025
 
 1. Sathyadhas G.N., Gladston A., Nehemiah K.H., [LwSANet: Light weight Self-Attention Network model to recognize fruits from images](https://www.iieta.org/journals/ts/paper/10.18280/ts.420117), Traitement du Signal, Vol. 42, No. 1, pp. 183-200, 2025.
 
-2. Panhwar Ali Orangzeb, Anwar Ali Sathio, Nadim Manzoor Shah, Sumaira Memon, [A Scheme Based on Deep Learning for Fruit Classification](https://search.informit.org/doi/abs/10.3316/informit.T2025031600003091229425520), Mehran University Research Journal Of Engineering & Technology, vol. 44, no. 1, Mehran University of Engineering & Technology, 2025, pp. 8–19, 2025.
+2. Panhwar Ali Orangzeb, Anwar Ali Sathio, Nadim Manzoor Shah, Sumaira Memon, [A Scheme Based on Deep Learning for Fruit Classification](https://search.informit.org/doi/abs/10.3316/informit.T2025031600003091229425520), Mehran University Research Journal Of Engineering & Technology, vol. 44, no. 1, Mehran University of Engineering & Technology, 2025, pp. 8–19, 2025. DOI: https://doi.org/10.22581/muet1982.2742
 
 3. Mansouri Merieme, Chaouni Samia Benabdellah, Andaloussi Said Jai, Ouchetto Ouail, Azbeg Kebira, [Estimating glycemic index in a specific dataset: The case of Moroccan cuisine](https://www.degruyter.com/document/doi/10.1515/jisys-2024-0122/html), Journal of Intelligent Systems, Vol. 34, No. 1, pp. 20240122, 2025. DOI: https://doi.org/10.1515/jisys-2024-0122
 
