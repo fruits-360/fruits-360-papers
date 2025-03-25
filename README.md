@@ -73,6 +73,8 @@ Jump to year:
 
 ## 2023
 
+1. Salim Farsana, Faisal Saeed, Shadi Basurra, Sultan Noman Qasem, Tawfik Al-Hadhrami, [DenseNet-201 and Xception Pre-Trained Deep Learning Models for Fruit Recognition](https://www.mdpi.com/2079-9292/12/14/3132), Electronics, Vol. 12, No. 14: 3132. 2023. DOI: https://doi.org/10.3390/electronics12143132
+
 ## 2024
 
 1. Ciapas B., Treigys P., [Centre-loss—A preferred class verification approach over sample-to-sample in self-checkout products datasets](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cvi2.12302), IET Computer Vision, Vol. 18, Issue 7, pp. 1004–1016, 2024. DOI: https://doi.org/10.1049/cvi2.12302
