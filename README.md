@@ -89,6 +89,7 @@ Jump to year:
 
 4. Xu, Qinghui, Chen Luo, Dou Wen, Runhua Yang, Yilin Wan, Zongqi Ge, [RESEARCH ON FRUIT IMAGE PROCESSING CLASSIFICANTION AND RECOGNITION BASED ON RESNET50 NEURAL NETWORK](https://sia.alliancepress.org/2/1/30), Scientific Innovation in Asia, Vol. 2, no. 1, pp. 1-8, 2024.
 
+5. Zárate, Víctor, Danilo Cáceres Hernández, [Simplified Deep Learning for Accessible Fruit Quality Assessment in Small Agricultural Operations](https://www.mdpi.com/2076-3417/14/18/8243), Applied Sciences, Vol. 14, Issue 18, 8243, 2024.
 
 ## 2025
 
