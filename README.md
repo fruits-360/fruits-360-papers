@@ -14,7 +14,9 @@ If your paper is not here, please add it by:
 
 - send it to me, by email at _mihai.oltean@gmail.com_.
 
-Only papers using __Fruits-360 dataset__ in the numerical experiments are accepted.
+Please upload pdf in the [papers-pdf](papers-pdf) folder. Please rename the file to have the same name as the paper.
+
+Only papers using __Fruits-360 dataset__ in the numerical experiments are accepted in this repository.
 
 _Last update: 2025.03.23.2_
 
