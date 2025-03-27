@@ -87,6 +87,9 @@ Jump to year:
 
 3. Chunyang Zhu, Lei Wang, Weihua Zhao, Heng Lian, [Image classification based on tensor network DenseNet model](https://link.springer.com/article/10.1007/s10489-024-05472-4), Appl Intell Vol. 54, pp. 6624–6636, 2024. DOI: https://doi.org/10.1007/s10489-024-05472-4
 
+4. Xu, Qinghui, Chen Luo, Dou Wen, Runhua Yang, Yilin Wan, Zongqi Ge, [RESEARCH ON FRUIT IMAGE PROCESSING CLASSIFICANTION AND RECOGNITION BASED ON RESNET50 NEURAL NETWORK](https://sia.alliancepress.org/2/1/30), Scientific Innovation in Asia, Vol. 2, no. 1, pp. 1-8, 2024.
+
+
 ## 2025
 
 1. Sathyadhas G.N., Gladston A., Nehemiah K.H., [LwSANet: Light weight Self-Attention Network model to recognize fruits from images](https://www.iieta.org/journals/ts/paper/10.18280/ts.420117), Traitement du Signal, Vol. 42, No. 1, pp. 183-200, 2025.
