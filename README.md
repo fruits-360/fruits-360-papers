@@ -18,7 +18,7 @@ Please upload pdf in the [papers-pdf](papers-pdf) folder. Please rename the file
 
 Only papers using __Fruits-360 dataset__ in the numerical experiments are accepted in this repository.
 
-_Last update: 2025.03.23.2_
+_Last update: 2025.12.28.0_
 
 Jump to year:
 
@@ -102,3 +102,15 @@ Jump to year:
 4. Sadique P.M.A., Aswiga R.V., [Automatic summarization of cooking videos using transfer learning and transformer-based models](https://link.springer.com/article/10.1007/s44163-025-00230-y), Discov Artif Intell Vol. 5, Issue 7, 2025. https://doi.org/10.1007/s44163-025-00230-y
 
 5. Robi Wariyanto Abdullah, Rajnaparamitha Kusumastuti ,Handoko, [IMAGE FEATURE EXTRACTION PROCESSING ANALYSIS FOR APPLE TYPE CLASSIFICATION USING SCIKIT-LEARN WITH THE K-NEAREST NEIGHBOR ALGORITHM](https://jtiik.ub.ac.id/index.php/jtiik/article/view/9149), Jurnal Teknologi Informasi Dan Ilmu Komputer, Vol. 12, Issue 1, pp. 165-174, 2025.
+
+6. Cao, Xuan, Vu Nguyen, and Tham Vo. [FruitNet-121: An Intelligent Fruit Classification System Based on DenseNet121](). International Conference on Data Analytics & Management, pp. 519-529. Cham: Springer Nature, 2025.
+
+7. Erşahin, Rukiye Ertürk, and Fesih Keskin, [A Comparative Analysis of Deep Learning Architectures for Robust Fruit Detection](), 7th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (ICHORA), pp. 1-6. IEEE, 2025.
+
+8. Mim, Tasauf, Md Mahbubur Rahman, Jahanur Biswas, Ahmad Shafkat, and Khandaker Mohammad Mohi Uddin, [FruitsMultiNet: A Deep Neural Network Approach to Identify Fruits through Multi-scale Feature Fusion using Mobile Interface]() Journal of Agriculture and Food Research, 102083, 2025.
+
+9. Vasilevschi, Ana-Mihaela, and Daniela Faur, [Exploring Image Dataset Structure through Deep Feature Extraction and Dimensionality Reduction](), 25th International Conference on Control Systems and Computer Science (CSCS), pp. 341-348. IEEE, 2025.
+
+10. Park, Woohyun, Gimun Kim, Hyojeong Chae, Seungjun Lee, and Sungjun Kim, [HfAlOx-based optical ferroelectric memristor with transparent electrode for RGB color image classification via physical reservoir](), Nano Energy, 111190, 2025.
+
+11. Roman, Ali, Md Mostafizer Rahman, Sajjad Ali Haider, Tallha Akram, and Syed Rameez Naqvi, [Integrating feature selection and deep learning: a hybrid approach for smart agriculture applications](), Algorithms 18, no. 4, 222, MDPI, 2025.
