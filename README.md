@@ -41,13 +41,60 @@ Jump to year:
 
 4. Mustaffa M. R., Yi N. X., Abdullah L. N., Nasharuddin N. A., [DURIAN RECOGNITION BASED ON MULTIPLE FEATURES AND LINEAR DISCRIMINANT ANALYSIS](http://adum.um.edu.my/index.php/MJCS/article/view/15488), Malaysian Journal of Computer Science, pp. 57–72. 2018.
 
-5. M. Buzzelli, F. Belotti, R. Schettini, [Recognition of Edible Vegetables and Fruits for Smart Home Appliances], IEEE 8th International Conference on Consumer Electronics - Berlin (ICCE-Berlin), Berlin, Germany, pp. 1-4, 2018.
+5. M. Buzzelli, F. Belotti, R. Schettini, [Recognition of Edible Vegetables and Fruits for Smart Home Appliances](), IEEE 8th International Conference on Consumer Electronics - Berlin (ICCE-Berlin), Berlin, Germany, pp. 1-4, 2018.
+
+6. Alshalali, Tagrid, and Darsana Josyula. [Fine-tuning of pre-trained deep learning models with extreme learning machine](), 2018 International Conference on Computational Science and Computational Intelligence (CSCI), pp. 469-473. IEEE, 2018.
+
+7. Acosta, Daniel Jaime, Edgar Francisco Duque-Vazquez, Ilse Milena Villalba-Mantilla, and Jonathan Cepeda-Negrete. "Implementación de algoritmos de visión computacional para la automatización de sistemas agroindustriales." JÓVENES EN LA CIENCIA 4, no. 1 (2018): 2614-2619.
+
+8. Gad, Ahmed Fawzy, Ahmed Fawzy Gad, and Suresh John, [Practical computer vision applications using deep learning with CNNs](), Berkeley: Apress, 2018.
+
+9. Slavescu, Radu Razvan, and László Szakács. [Towards Improving Location Identification by Deep Learning on Images](), IEEE 14th International Conference on Intelligent Computer Communication and Processing (ICCP), pp. 345-351. IEEE, 2018.
 
 ## 2019
 
 1. Dang Thi Phuong Chung, Dinh Van Tai, [A fruits recognition system based on a modern deep learning technique](https://iopscience.iop.org/article/10.1088/1742-6596/1327/1/012050/meta), Journal of Physics: Conference Series, Volume 1327, V International Conference on Innovations in Non-Destructive Testing SibTest, 2019. DOI: 10.1088/1742-6596/1327/1/012050
 
 2. Shadman Sakib, Zahidun Ashrafi, Md. Abu Bakr Siddique, [Implementation of Fruits Recognition Classifier using Convolutional Neural Network Algorithm for Observation of Accuracies for Various Hidden Layers](https://arxiv.org/abs/1904.00783), 2019. DOI:  10.48550/arXiv.1904.00783
+
+3. Turayki, Latifah Abdullah Bin, and Nirase Fathima Abubacker, [SUFID: Sliced and Unsliced Fruits Images Dataset](), International Visual Informatics Conference, pp. 237-244. Cham: Springer International Publishing, 2019.
+
+4. Alzubaidi, Laith, Omran Al-Shamma, Mohammed A. Fadhel, Zinah Mohsin Arkah, and Fouad H. Awad. [A deep convolutional neural network model for multi-class fruits classification](), International Conference on Intelligent Systems Design and Applications, pp. 90-99. Cham: Springer International Publishing, 2019.
+
+5. Siddiqi, Raheel. [Effectiveness of transfer learning and fine tuning in automated fruit image classification](), Proceedings of the 2019 3rd international conference on deep learning technologies, pp. 91-100. 2019.
+
+6. Zhu, Dongmei, Min Wang, Qin Zou, Dingcai Shen, and Jiamei Luo. [Research on fruit category classification based on convolution neural network and data augmentation.](), IEEE 13th International Conference on Anti-counterfeiting, Security, and Identification (ASID), pp. 46-50. IEEE, 2019.
+
+7. Huang, Ziliang, Yan Cao, and Tianbao Wang. [Transfer learning with efficient convolutional neural networks for fruit recognition.](), IEEE 3rd Information Technology, Networking, Electronic and Automation Control Conference (ITNEC), pp. 358-362. IEEE, 2019.
+
+8. Biswas, Biswajit, Swarup Kr Ghosh, and Anupam Ghosh. [A robust multi-label fruit classification based on deep convolution neural network](),Computational Intelligence in Pattern Recognition: Proceedings of CIPR 2019, pp. 105-115. Singapore: Springer Singapore, 2019.
+
+9. dos Santos, Fernando Pereira, and Moacir Antonelli Ponti. [Alignment of local and global features from multiple layers of convolutional neural network for image classification](), 32nd SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), pp. 241-248. IEEE, 2019.
+
+10. Zamzami, Nuha, and Nizar Bouguila. [Hybrid generative discriminative approaches based on multinomial scaled dirichlet mixture models](), Applied Intelligence 49, no. 11 (2019): 3783-3800.
+
+11. Jones, Barett, [Comparing Image Classification with Feature Extraction](). The 20th Winona Computer Science Undergraduate Research Symposium, p. 10. 2019.
+
+12. Khan, Rafflesia, and Rameswar Debnath. [Multi class fruit classification using efficient object detection and recognition techniques](), Int. J. Image Graph. Signal Process 11, no. 1 (2019).
+
+13. Sharma, Abhinav, Jan N. Van Rijn, Frank Hutter, and Andreas Müller, [Hyperparameter importance for image classification by residual neural networks](), International conference on discovery science, pp. 112-126. Cham: Springer International Publishing, 2019.
+
+14. Januário, Jailson, Elloá Guedes, and Fabio de Silva, [Classificação do Índice Glicêmico a partir de Imagens de Alimentos com Redes Neurais Convolucionais](), Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), pp. 493-502. SBC, 2019.
+
+15. Desai, Maithili. [A Fruit Recognition Approach for Refrigerator Inventory Management](), International Conference on Issues and Challenges in Intelligent Computing Techniques (ICICT), vol. 1, pp. 1-6. IEEE, 2019.
+
+16. Widiasri, Monica. [Image based indonesian fruit recognition using MPEG-7 colorstructure descriptor and k-nearest neighbor](), Universitas Surabaya, 2019.
+
+17. Rosa, Ayrton Lima da. [Classificação de imagens de frutas utilizando aprendizado de máquina](), 2019.
+
+18. Славіта, С. Ю. [Мобільний додаток визначення харчових продуктів рослинного походження на основі штучного інтелекту](), 2019.
+
+19. Bates, Christopher J., and Robert A. Jacobs. [Efficient Data Compression Leads to Categorical Bias inPerception and Perceptual Memory](), Proceedings of the Annual Meeting of the Cognitive Science Society, vol. 41. 2019.
+
+20. Bao, Yuxuan. [A Study OF METHODS FOR TRAINING WITH DIFFERENT DATASETS IN IMAGE CLASSIFICATION](), 2019.
+
+21. Shadman Sakib, Md. Nazim Uddin, [DIGITAL IMAGE RESTORATION AND IMAGE CLASSIFICATION USING DEEP LEARNING](), PhD diss., International University of Business Agriculture and Technology, 2019.
+
 
 ## 2020
 
