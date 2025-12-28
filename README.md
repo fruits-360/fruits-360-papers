@@ -98,7 +98,7 @@ Jump to year:
 
 ## 2020
 
-1. S. Ghosh, M. J. Mondal, S. Sen, S. Chatterjee, N. Kar Roy, S. Patnaik, [A novel approach to detect and classify fruits using ShuffleNet V2](), IEEE Applied Signal Processing Conference (ASPCON), Kolkata, India, pp. 163-167, 2020. DOI: 10.1109/ASPCON49795.2020.9276669.
+1. S. Ghosh, M. J. Mondal, S. Sen, S. Chatterjee, N. Kar Roy, S. Patnaik, [A novel approach to detect and classify fruits using ShuffleNet V2](https://www.researchgate.net/profile/Sourodip-Ghosh/publication/347431591_A_novel_approach_to_detect_and_classify_fruits_using_ShuffleNet_V2/links/60547cdf458515e8345621a1/A-novel-approach-to-detect-and-classify-fruits-using-ShuffleNet-V2.pdf), IEEE Applied Signal Processing Conference (ASPCON), Kolkata, India, pp. 163-167, 2020. DOI: 10.1109/ASPCON49795.2020.9276669.
 
 2. Ghazanfar Latif, Batool Alsalem, Wejdan Mubarky, Nazeeruddin Mohammad, Jaafar Alghazo, [Automatic Fruits Calories Estimation through Convolutional Neural Networks](https://dl.acm.org/doi/abs/10.1145/3397125.3397154), In Proceedings of the 2020 6th International Conference on Computer and Technology Applications (ICCTA '20). Association for Computing Machinery, New York, NY, USA, pp. 17–21, 2020. DOI: 10.1145/3397125.3397154
 
@@ -107,6 +107,63 @@ Jump to year:
 4. S. Yu, K. Wickstrøm, R. Jenssen, J. C. Príncipe, [Understanding Convolutional Neural Networks With Information Theory: An Initial Exploration](https://ieeexplore.ieee.org/abstract/document/8998186), in IEEE Transactions on Neural Networks and Learning Systems, Vol. 32, No. 1, pp. 435-442, Jan. 2021, DOI: 10.1109/TNNLS.2020.2968509.
 
 5. Pritom Sarker, Mehenag Khatun, Forhad Ali, Nakib Aman Turzo, Julker Nine, [Fruits Classification using Convolutional Neural Network](https://www.grdjournals.com/article?paper_id=GRDJEV05I080015), Global Research and Development Journal For Engineering, Vol. 58: pp. 1-6, 2020.
+
+6. Huang, Calvin, and Zhengbo Wang. [Final Report on Common Fruits Identification](https://kylewsbm.github.io/MLProjectWebsite/assets/pdfs/Common%20Fruits%20Identification.pdf), 2020.
+
+7. Munir, Khadija, Arif Iqbal Umar, and Waqas Yousaf. [Automatic fruits classification system based on deep neural network](https://journals.nust.edu.pk/index.php/njes/article/download/501/136), NUST Journal of Engineering Sciences 13, no. 1 (2020): 37-44.
+
+8. Postalcıoğlu, Seda. "Performance analysis of different optimizers for deep learning-based image recognition." International Journal of Pattern Recognition and Artificial Intelligence 34, no. 02 (2020): 2051003.
+
+9. Kodors, Sergejs. [Pear and apple recognition using deep learning and mobile](https://www.academia.edu/download/104263830/TF476.pdf), 19th International Scientific Conference Engineering for Rural Development Proceedings. 2020.
+
+10. Siddiqi, Raheel. "Comparative performance of various deep learning based models in fruit image classification." In Proceedings of the 11th International Conference on Advances in Information Technology, pp. 1-9. 2020.
+
+11. Yu, Shujian, Kristoffer Wickstrøm, Robert Jenssen, and Jose C. Principe. [Understanding convolutional neural networks with information theory: An initial exploration](https://arxiv.org/pdf/1804.06537), IEEE transactions on neural networks and learning systems 32, no. 1 (2020): 435-442.
+
+12. Martin, Jörg, and Clemens Elster. [Inspecting adversarial examples using the fisher information](https://arxiv.org/pdf/1909.05527), Neurocomputing 382 (2020): 80-86.
+
+13. Barreto, Fabian, Sushilkumar Yadav, Suprava Patnaik, and Jignesh Sarvaiya. "Sift features for deep and variational autoencoders: A performance comparison." In 2020 2nd International Conference on Advances in Computing, Communication Control and Networking (ICACCCN), pp. 652-655. IEEE, 2020.
+
+14. Ünal, Haci Bayram, Ebru Vural, Burcu Kir Savaş, and Yaşar Becerikli. [Fruit recognition and classification with deep learning support on embedded system (fruitnet)](https://www.researchgate.net/profile/Yasar-Becerkli/publication/347137976_Fruit_Recognition_and_Classification_with_Deep_Learning_Support_on_Embedded_System_fruitnet/links/603dea934585154e8c6e1cd9/Fruit-Recognition-and-Classification-with-Deep-Learning-Support-on-Embedded-System-fruitnet.pdf), Innovations in Intelligent Systems and Applications Conference (ASYU), pp. 1-5. IEEE, 2020.
+
+15. Srivastava, Swapnil, Tripti Singh, Sakshi Sharma, Anil Verma, and A. Abdul. "A fruit recognition system based on modern deep learning technique." Int. J. Eng. Res. Technol 9 (2020): 896-898.
+
+16. Duong, Linh T., Phuong T. Nguyen, Claudio Di Sipio, and Davide Di Ruscio. [Automated fruit recognition using EfficientNet and MixNet](https://www.researchgate.net/profile/Phuong-Nguyen-51/publication/339798572_Automated_fruit_recognition_using_EfficientNet_and_MixNet/links/5f2ad92ea6fdcccc43ac5b87/Automated-fruit-recognition-using-EfficientNet-and-MixNet.pdf), Computers and Electronics in Agriculture 171 (2020): 105326.
+
+17. Himabindu, D. Dakshayani, and S. Praveen Kumar. "A comprehensive analytic scheme for classification of novel models." In 2020 3rd international conference on intelligent sustainable systems (ICISS), pp. 564-569. IEEE, 2020.
+
+18. Orquia, John Jowil D. [Automated fruit classification using deep convolutional neural network](https://www.philssj.org/index.php/main/article/download/188/171), Philippine Social Science Journal 3, no. 2 (2020): 177-178.
+
+19. Tomar, Hanshu. [Multi-class image classification of fruits and vegetables using transfer learning techniques](https://esource.dbs.ie/bitstream/10788/4252/1/msc_tomar_h_2020.pdf), PhD diss., Dublin Business School, 2020.
+
+20. Naidu, Himanshu, S. Rajkumar, K. C. Santosh, and P. V. S. S. R. Chandra Mouli. "A fast and efficient convolutional neural network for fruit recognition and classification." In International Conference on Recent Trends in Image Processing and Pattern Recognition, pp. 148-157. Singapore: Springer Singapore, 2020.
+
+21. Iyer, Krithika. [GAN generated images of fruit decay](http://cs230.stanford.edu/projects_fall_2020/reports/55757638.pdf), 2020.
+
+22. Ummapure, Suryakanth B., and Shashikiran M. Hanchinal. [Multi Features based Fruit Classification Using different Classifiers](), Journal of University of Shanghai for Science and Technology 22, no. 12 (2020): 1344-1356.
+
+23. Dipu Kabir, H. M., Moloud Abdar, Seyed Mohammad Jafar Jalali, Abbas Khosravi, Amir F. Atiya, Saeid Nahavandi, and Dipti Srinivasan. "Spinalnet: Deep neural network with gradual input." arXiv e-prints (2020): arXiv-2007.
+
+24. Amol, Mutha Sahil, and Shah Akshat Mayur. [Maturity Detection of Tomatoes using Deep learning](https://www.tcetmumbai.in/IT/EC-AIML-2020.pdf#page=128), Department of Information Technology (2020): 121.
+
+25. Kathepuri, Shubham. [Recognition and classification of fruits using deep learning techniques](https://norma.ncirl.ie/4448/1/shubhamkathepuri.pdf), PhD diss., Dublin, National College of Ireland, 2020.
+
+26. Rojas-Aranda, Jose Luis, Jose Ignacio Nunez-Varela, Juan Carlos Cuevas-Tello, and Gabriela Rangel-Ramirez. "Fruit classification for retail stores using deep learning." In Mexican Conference on Pattern Recognition, pp. 3-13. Cham: Springer International Publishing, 2020.
+
+27. Muhathir, Muhathir, Wahyu Hidayah, and Dian Ifantiska. "Utilization of Support Vector Machine and Speeded up Robust Features Extraction in Classifying Fruit Imagery." Computer Engineering & Applications Journal 9, no. 3 (2020).
+
+28. Muhathir, Muhathir, Muhammad Hamdani Santoso, and Rizki Muliono. "Analysis naã ve bayes in classifying fruit by utilizing hog feature extraction." Journal of Informatics and Telecommunication Engineering 4, no. 1 (2020): 151-160.
+
+29. Ramadevi, Kotagiri, and A. Poongodai. "Fruit Detection Using Recurrent Convolutional Neural Network (RCNN)." In ICCCE 2020: Proceedings of the 3rd International Conference on Communications and Cyber Physical Engineering, pp. 1241-1248. Singapore: Springer Nature Singapore, 2020.
+
+30. Wan, Shaohua, and Sotirios Goudos. "Faster R-CNN for multi-class fruit detection using a robotic vision system." Computer Networks 168 (2020): 107036.
+
+31. Dehkordi, Amirhoshang Hoseinpour, Majid Alizadeh, and Ali Movaghar. "Meet MASKS: A novel Multi-Classifier's verification approach." arXiv preprint arXiv:2007.10090 (2020).
+
+32. Busson, Antonio José G., Paulo Renato C. Mendes, Daniel de S. Moraes, Álvaro Mário G. da Veiga, Sérgio Colcher, and Álan Lívio V. Guedes. "Decoder-Side Quality Enhancement of JPEG Images Using Deep Learning-Based Prediction Models for Quantized DCT Coefficients." In Proceedings of the Brazilian Symposium on Multimedia and the Web, pp. 129-136. 2020.
+
+33. Yohannes, Yohannes, Muhammad Rizky Pribadi, and Leo Chandra. "Klasifikasi jenis buah dan sayuran menggunakan SVM dengan fitur Saliency-HOG dan color moments." Elkha 12, no. 2 (2020): 125-131.
+
 
 ## 2021
 
