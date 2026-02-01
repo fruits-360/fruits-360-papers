@@ -30,6 +30,7 @@ Jump to year:
 [2023](#2023)
 [2024](#2024)
 [2025](#2025)
+[2026](#2026)
 
 ## 2018
 
@@ -171,6 +172,140 @@ Jump to year:
 
 2. Wang Shijie, Guiling Sun, Bowen Zheng, Yawen Du, [A Crop Image Segmentation and Extraction Algorithm Based on Mask RCNN](https://www.mdpi.com/1099-4300/23/9/1160), Entropy, Vol. 23, No. 9: 1160. 2021. DOI: https://doi.org/10.3390/e23091160
 
+3. Albiol, Antonio, Alberto Albiol, and Carlos Sánchez de Merás. [Fast 3D rotation estimation of fruits using spheroid models](https://www.mdpi.com/1424-8220/21/6/2232), Sensors 21, no. 6 (2021): 2232.
+
+4. Bongulwar, D. M., and S. N. Talbar. [Robust Convolutional Neural Network Model For Recognition of Fruits.](https://www.researchgate.net/profile/Deepali-Bongulwar-2/publication/357703098_Robust_Convolutional_Neural_Network_Model_For_Recognition_of_Fruits/links/636a3b10431b1f53007de03a/Robust-Convolutional-Neural-Network-Model-For-Recognition-of-Fruits.pdf), Indian Journal of Science and Technology 14.45 (2021): 3318-3334.
+
+6. Joseph, Jinu Lilly, Veena A. Kumar, and Santhosh P. Mathew. [Fruit classification using deep learning.](https://link.springer.com/chapter/10.1007/978-981-16-0749-3_62), Innovations in Electrical and Electronic Engineering: Proceedings of ICEEE 2021. Singapore: Springer Singapore, 2021. 807-817.
+
+7. Wang, Shijie, et al. [A crop image segmentation and extraction algorithm based on mask RCNN.](https://www.mdpi.com/1099-4300/23/9/1160), Entropy 23.9 (2021): 1160.
+
+8. Ghazal, Sumaira, et al. [Analysis of visual features and classifiers for Fruit classification problem.](https://www.sciencedirect.com/science/article/pii/S0168169921002842), Computers and Electronics in Agriculture 187 (2021): 106267.
+
+9. Bobde, Sarika, et al. [Fruit quality recognition using deep learning algorithm.](https://ieeexplore.ieee.org/abstract/document/9645793/), 2021 International conference on smart generation computing, communication and networking (SMART GENCON). IEEE, 2021.
+
+10. Albardi, Feras, et al. [A comprehensive study on torchvision pre-trained models for fine-grained inter-species classification.](https://ieeexplore.ieee.org/abstract/document/9659161/), 2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2021.
+
+11. Lu, Tao, et al. [A generic intelligent tomato classification system for practical applications using DenseNet-201 with transfer learning.](https://www.nature.com/articles/s41598-021-95218-w), Scientific Reports 11.1 (2021): 15824.
+
+12. Chen, Yulin, et al. [Fruit classification model based on residual filtering network for smart community robot.](https://onlinelibrary.wiley.com/doi/abs/10.1155/2021/5541665) Wireless Communications and Mobile Computing 2021.1 (2021): 5541665.
+
+13. Shaikh, Heena, et al. [Classification of affected fruits using machine learning.](https://www.academia.edu/download/66226418/classification_of_affected_fruits_using_IJERTCONV9IS03105.pdf) International Journal of Engineering Research & Technology (IJERT) 9.3 (2021): 519-524.
+
+14.Albiol, Antonio, Alberto Albiol, and Carlos Sánchez de Merás. [Fast 3D rotation estimation of fruits using spheroid models.](https://www.mdpi.com/1424-8220/21/6/2232), Sensors 21.6 (2021): 2232.
+
+15.Lee, Chu-Hui, and Jhih-Chen Jhou. [A non-invasive method to classify the sweetness levels of apples.](https://dl.acm.org/doi/abs/10.1145/3480433.3480453), 2021 5th International Conference on Artificial Intelligence and Virtual Reality (AIVR). 2021.
+
+16.Roy, Kyamelia, Probhakar Roy, and Sheli Sinha Chaudhuri. [Capsule Neural Network Architecture Based Multi-class Fruit Image Classification.](https://link.springer.com/chapter/10.1007/978-981-15-9433-5_17), Advances in Smart Communication Technology and Information Processing: OPTRONIX 2020. Singapore: Springer Singapore, 2021. 171-180.
+
+17. Jain, Pulkit, and Paras Chawla. [Smart module design for refrigerators based on inception-V3 CNN architecture.](https://ieeexplore.ieee.org/abstract/document/9532833/), 2021 Second International Conference on Electronics and Sustainable Communication Systems (ICESC). IEEE, 2021.
+
+18. Zhou, Shi-Yao, and Chung-Yen Su. [A novel lightweight convolutional neural network, ExquisiteNetV2.](https://arxiv.org/abs/2105.09008), arXiv preprint arXiv:2105.09008 (2021).
+
+19. Dandekar, Mohit, et al. [Fruit classification using deep feature maps in the presence of deceptive similar classes.](https://ieeexplore.ieee.org/abstract/document/9533678/) 2021 International Joint Conference on Neural Networks (IJCNN). IEEE, 2021.
+
+20. Malhotra, Sahil, and Rita Chhikara. [Automated grading system to evaluate ripeness of tomatoes using deep learning methods.](https://link.springer.com/chapter/10.1007/978-981-15-9689-6_15), Proceedings of the Second International Conference on Information Management and Machine Intelligence: ICIMMI 2020. Singapore: Springer Singapore, 2021.
+
+21. Tripathi, Milan. [Analysis of convolutional neural network based image classification techniques.](https://www.researchgate.net/profile/Milan-Tripathi/publication/352726526_Analysis_of_Convolutional_Neural_Network_based_Image_Classification_Techniques/links/613864f0637a811d6d587719/Analysis-of-Convolutional-Neural-Network-based-Image-Classification-Techniques.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9), Journal of Innovative Image Processing (JIIP) 3.02 (2021): 100-117.
+
+22. Abdaulamir A, Karim. [Using texture feature in fruit classification.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4483806), Engineering and Technology Journal (2021).
+
+23. Mutha, Sahil Amol, Akshat Mayur Shah, and Mohammed Zakee Ahmed. [Maturity detection of tomatoes using deep learning.](https://link.springer.com/article/10.1007/s42979-021-00837-9),  SN Computer Science 2.6 (2021): 441.
+
+24. Данг, Т. Ф. Т., et al. [Применение сверточной нейронной сети для распознавания фруктов.](https://elibrary.ru/item.asp?id=46410745) Современные наукоемкие технологии 7 (2021): 24-29.
+
+25. Chopra, Hetarth, et al. [Efficient fruit grading system using spectrophotometry and machine learning approaches.](https://ieeexplore.ieee.org/abstract/document/9415633/), IEEE Sensors Journal 21.14 (2021): 16162-16169.
+
+26. Zhao, Huamin, et al. [Muskmelon maturity stage classification model based on cnn.](https://onlinelibrary.wiley.com/doi/abs/10.1155/2021/8828340),  Journal of Robotics 2021.1 (2021): 8828340.
+
+27. Oltean, M. [Fruits 360. Kaggle.](https://scholar.google.ro/scholar?start=20&q=%22fruits+360%22&hl=ro&as_sdt=0,5&as_ylo=2021&as_yhi=2021#:~:text=%5BCITARE%5D%20Fruits%20360.%20Kaggle),  (2021).
+
+28. Sartori, Laercio, Dalila Durães, and Paulo Novais. [A Simple Strategy for Choosing Network Structures in a Object Detection Project with Transfer Learning.](https://link.springer.com/chapter/10.1007/978-3-030-85710-3_7),  International Conference on Practical Applications of Agents and Multi-Agent Systems. Cham: Springer International Publishing, 2021.
+
+29. Minuţ, Mihai-Dimitrie, and Adrian Iftene. [Creating a dataset and models based on convolutional neural networks to improve fruit classification."](https://ieeexplore.ieee.org/abstract/document/9700237/), 2021 23rd International symposium on symbolic and numeric algorithms for scientific computing (SYNASC). IEEE, 2021.
+
+30. Jindal, Rajni, et al. [Food Recognition and Calorie Estimation using Convolutional Neural Networks.](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=23955287&AN=151423835&h=u%2BVV0uxSKN4DvVTWhcsErcz9t9a%2BiEACzjOF0%2FTLQMru8on8iodVTK7BrZznAgbrHdYwWFP072nx%2BlJnl0Ps6g%3D%3D&crl=c),  Grenze International Journal of Engineering & Technology (GIJET) 7.1 (2021).
+
+31. Banerjee, Saikat, and Abhoy Chand Mondal. [Nutrient food prediction through deep learning.](https://ieeexplore.ieee.org/abstract/document/9545014/),  2021 Asian conference on innovation in technology (ASIANCON). IEEE, 2021.
+
+32. Muresan, H., and M. Oltean. [Fruits 360 Dataset.](https://scholar.google.ro/scholar?start=30&q=%22fruits+360%22&hl=ro&as_sdt=0,5&as_ylo=2021&as_yhi=2021#:~:text=%5BCITARE%5D-,Fruits,-360%20Dataset),  2021,
+
+33. Kvinge, Henry, et al. [Sheaves as a framework for understanding and interpreting model fit.](https://openaccess.thecvf.com/content/ICCV2021W/TAG-CV/html/Kvinge_Sheaves_as_a_Framework_for_Understanding_and_Interpreting_Model_Fit_ICCVW_2021_paper.html),  Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021.
+
+34. Gaur, Nidhi. [Design of Image Classifier for Web Application.](https://ieeexplore.ieee.org/abstract/document/9402489/), 2021 International Conference on Computer Communication and Informatics (ICCCI). IEEE, 2021.
+
+35. Sharma, Vijay Prakash, et al. [DEEP LEARNING-BASED SOLUTION FOR SUSTAINABLE AGRICULTURE.](https://www.researchgate.net/profile/Dr-Thankachan/publication/365634785_Integration_of_Smart-IoT_devices_to_enhance_security_and_performance_of_smart_grids_and_smart_energy_systems/links/637c574f1766b34c54455ee3/Integration-of-Smart-IoT-devices-to-enhance-security-and-performance-of-smart-grids-and-smart-energy-systems.pdf#page=103),  Green computing and its applications/Sanjay Kumar (editor), Rohit (2021): 91.
+
+36. Miah, Md Sohel, et al. [An advanced method of identification fresh and rotten fruits using different convolutional neural networks.](https://ieeexplore.ieee.org/abstract/document/9580117/),  2021 12th International Conference on Computing Communication and Networking Technologies (ICCCNT). IEEE, 2021.
+
+37. Latha, R. S., et al. [Automatic fruit detection system using multilayer deep convolution neural network.](https://ieeexplore.ieee.org/abstract/document/9402513/),  2021 International Conference on Computer Communication and Informatics (ICCCI). IEEE, 2021. 
+
+38. Kim, Sunghee. [Project-based data science course design.](https://dl.acm.org/doi/abs/10.5555/3512489.3512493),  Journal of Computing Sciences in Colleges 37.3 (2021): 22-35.
+
+39. Oechsle, Benjamin. [Food Classification mit einem Convolutional Neuronal Network.](https://autosys.informatik.haw-hamburg.de/papers/2021OechsleBenjamin.pdf), (2021).
+
+40. Gepperth, Alexander, and Benedikt Pfülb. [Gradient-based training of gaussian mixture models for high-dimensional streaming data.](https://link.springer.com/article/10.1007/s11063-021-10599-3),  Neural Processing Letters 53.6 (2021): 4331-4348.
+
+41. Kvinge, Henry, et al. [Fuzzy simplicial networks: A topology-inspired model to improve task generalization in few-shot learning.](https://proceedings.mlr.press/v140/kvinge21a.html),  AAAI Workshop on Meta-Learning and MetaDL Challenge. PMLR, 2021.
+
+42. Suddapalli, Sai Raghunandan, and Perugu Shyam. [Using mask-RCNN to identify defective parts of fruits and vegetables.](https://link.springer.com/chapter/10.1007/978-3-030-98404-5_58), International Conference on Intelligent Human Computer Interaction. Cham: Springer International Publishing, 2021.
+
+43. Hasanah, Riyan Latifahul. [Identifikasi Jenis Buah "Pyrus"(Pir) Menggunakan Algoritma Adaptive Neuro Fuzzy Inference System (ANFIS).](https://repository.nusamandiri.ac.id/repo/files/240998/download/Jurnal-Ilmiah-Genap.pdf),  EVOLUSI: Jurnal Sains dan Manajemen 9.1 (2021).
+
+44. Jain, Pulkit, and Paras Chawla. [A novel smart healthcare system design for Internet of health Things.](https://ieeexplore.ieee.org/abstract/document/9633869/),  2021 International Conference on Innovative Computing, Intelligent Communication and Smart Electrical Systems (ICSES). IEEE, 2021.
+
+45. Sari, Azani Cempaka, et al. [Fruit classification quality using convolutional neural network and augmented reality.](http://www.jatit.org/volumes/Vol99No22/7Vol99No22.pdf), J. Theor. Appl. Inf. Technol 99.22 (2021): 5300-5311.
+
+46. Kalazhokov, Zaur K., et al. [The Unique Challenges of Teaching Artificial Intelligence Systems to Mechatronics and Robotics Students.](https://ieeexplore.ieee.org/abstract/document/9642750/),  2021 International Conference on Quality Management, Transport and Information Security, Information Technologies (IT&QM&IS). IEEE, 2021.
+ 
+47. Schaaf, Nina, et al. [Towards measuring bias in image classification.](https://link.springer.com/chapter/10.1007/978-3-030-86365-4_35),  International Conference on Artificial Neural Networks. Cham: Springer International Publishing, 2021.
+
+48. Shah, Manan Vinod, et al. [System for adulteration detection in bananas.](https://www.researchgate.net/profile/M-Shah-10/publication/370225402_SYSTEM_FOR_ADULTERATION_DETECTION_IN_BANANAS/links/64471457017bc07902d78407/SYSTEM-FOR-ADULTERATION-DETECTION-IN-BANANAS.pdf), International Research Journal of Modernization in Engineering Technology and Science 3.9 (2021): 1190-1196.
+
+49. Huynh, Danh Phuoc, et al. [Classifying maturity of cherry tomatoes using deep transfer learning techniques.](https://iopscience.iop.org/article/10.1088/1757-899X/1109/1/012058/meta),  IOP Conference Series: Materials Science and Engineering. Vol. 1109. No. 1. IOP Publishing, 2021.
+
+50. Sharma, Richa, Arpit Agarwal, and H. R. Mamatha. [Classification of carrots based on shape analysis using machine learning techniques.](https://ieeexplore.ieee.org/abstract/document/9388520/),  2021 Third International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV). IEEE, 2021.
+
+51. Taner, Alper, Yeşim Benal Öztekin, and Hüseyin Duran. [Performance analysis of deep learning CNN models for variety classification in hazelnut.](https://www.mdpi.com/2071-1050/13/12/6527),  Sustainability 13.12 (2021): 6527.
+
+52. Cho, Wan Hyun, et al. [Fruit Ripeness Prediction Based on DNN Feature Induction from Sparse Dataset.](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=15462218&AN=152050694&h=e8h9A08%2Ff5IhGD8tev7a1P1MXAw59PAU6Xc5JOdJQiz0beoVJXTy6oxvGtu%2F76DUVhq%2BKUTCs1c3tf7ajl1dWQ%3D%3D&crl=c),  Computers, Materials & Continua 69.3 (2021).
+
+53. Pasindu, Imesh, et al. [Smart monitoring and disease detection for robotic harvesting of tomatoes.](https://ieeexplore.ieee.org/abstract/document/9670888/), 2021 3rd International Conference on Advancements in Computing (ICAC). IEEE, 2021.
+
+54. de Moraes, Jairo Lucas, et al. [Sisfrutos Papaya: A Dataset for Detection and Classification of Diseases in Papaya.](https://link.springer.com/chapter/10.1007/978-3-030-86340-1_3),  International Conference on Artificial Neural Networks. Cham: Springer International Publishing, 2021.
+
+55. Xiao, Bingjie, Minh Nguyen, and Wei Qi Yan. [Apple ripeness identification using deep learning.](https://link.springer.com/chapter/10.1007/978-3-030-72073-5_5),  International symposium on geometry and vision. Cham: Springer International Publishing, 2021.
+
+56. Michael, Aryo. [Classification model of ‘Toraja’arabica coffee fruit ripeness levels using convolution neural network approach.](https://www.academia.edu/download/93021716/pdf.pdf),  ILKOM Jurnal Ilmiah (2021).
+
+57. El Maghraby, Amr. [Improving Custom Vision cognitive services model.](https://asc.journals.ekb.eg/article_240134.html),  Journal of the ACS Advances in Computer Science 12.1 (2021): 36-63.
+
+59. Begum, Ninja, and Manuj Kumar Hazarika. [Artificial intelligence in agri-food systems—An introduction.](https://link.springer.com/chapter/10.1007/978-981-16-6210-2_3), Internet of Things and Analytics for Agriculture, Volume 3. Singapore: Springer Singapore, 2021. 45-63.
+
+60. Kvinge, Henry, et al. [One representation to rule them all: Identifying out-of-support examples in few-shot learning with generic representations.](https://arxiv.org/abs/2106.01423), arXiv preprint arXiv:2106.01423 (2021).
+
+61. Kwaghtyo, Dekera K. [Application of Machine Learning Techniques for Okra Shelf Life Prediction.](https://www.academia.edu/download/91137493/0004_Application_of_Machine_Learning_Techniques_for_Okra_Shelf_Life_Prediction.pdf),  Journal of Data Analysis and Information Processing (2021).
+
+62. Klaoudatos, Dimitrios. [Active Perception in Autonomous Fruit Harvesting.](https://repository.tudelft.nl/file/File_5b328f2c-c981-401f-a618-49c3c5d18788), 
+
+63. Irhebhude, Martins E. [Recognition of mangoes and oranges colour and texture features and locality preserving projection.](https://www.academia.edu/download/85121424/IJCDS_110179_1570688735.pdf), International Journal Of Computing and Digital System (2021).
+
+64. Kumar, M. Teja Kiran, et al. [Can skeletal joint positional ordering influence action recognition on spectrally graded CNNs: A perspective on achieving joint order independent learning.](https://ieeexplore.ieee.org/abstract/document/9567679/),  IEEE Access 9 (2021): 139611-139626.
+
+65. Ampe Mohottige, Sandupa Nilanjana Jayasiri. EZ Food: [Technical Report. Diss. Dublin](https://norma.ncirl.ie/5066/1/sandupanilanjanajayasiriampemohottige.pdf), National College of Ireland, 2021.
+
+66. Tahir, Ghalib Ahmed, and Chu Kiong Loo. [A comprehensive survey of image-based food recognition and volume estimation methods for dietary assessment.](https://www.mdpi.com/2227-9032/9/12/1676),  Healthcare. Vol. 9. No. 12. MDPI, 2021.
+
+67. Gupta, Adhira, and Sanjay Sharma. [A Review: Food Recognition for Dietary Assessment/Calorie Measurement using Machine Learning Techniques.](https://www.academia.edu/download/68585720/a_review_food_recognition_for_IJERTCONV9IS08027.pdf)
+
+68. Cala Pinzón, Karol Daniela, Lisseth Andrea Hernández Flórez, and Cristian David Parra Muñoz. [Desarrollo de un prototipo funcional de software para estimar la producción de cacao, haciendo uso de herramientas de aprendizaje profundo y visión por computador.](https://repository.unab.edu.co/handle/20.500.12749/16073), (2021).
+
+70. Ніколаюк, Дарія. [Реалізація та порівняння методів навчання нейронних мереж.](https://ekmair.ukma.edu.ua/bitstream/123456789/22492/1/Nikolaiuk_Bakalavrska_robota.pdf),  (2021).
+
+
+
+
+
 ## 2022
 
 1. Horea Mureşan, [An Automated Algorithm for Fruit Image Dataset Building](https://ieeexplore.ieee.org/document/9909204), 17th Conference on Computer Science and Intelligence Systems (FedCSIS), Sofia, Bulgaria, pp. 103-107, 2022. DOI: 10.15439/2022F58
@@ -218,3 +353,6 @@ Jump to year:
 10. Park, Woohyun, Gimun Kim, Hyojeong Chae, Seungjun Lee, and Sungjun Kim, [HfAlOx-based optical ferroelectric memristor with transparent electrode for RGB color image classification via physical reservoir](), Nano Energy, 111190, 2025.
 
 11. Roman, Ali, Md Mostafizer Rahman, Sajjad Ali Haider, Tallha Akram, and Syed Rameez Naqvi, [Integrating feature selection and deep learning: a hybrid approach for smart agriculture applications](), Algorithms 18, no. 4, 222, MDPI, 2025.
+
+## 2026
+
